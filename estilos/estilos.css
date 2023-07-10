@@ -154,7 +154,7 @@ footer .direccion .pin {
 
 /* DESTINOS */
 .destinosBanner {
-  background-image: url(../media/bannerDestinos.png);
+  background-image: url(../media/banner-destinos.jpg);
   height: 500px;
   display: flex;
   flex-direction: column;
