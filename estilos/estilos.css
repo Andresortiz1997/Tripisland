@@ -63,7 +63,7 @@ header .collapse .nav-item .nav-link:hover {
 
 /* Banner */
 .banner {
-  background-image: url(../media/bannerIndex.jpg);
+  background-image: url(../media/banner-index.jpg);
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
